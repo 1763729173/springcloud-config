@@ -1,5 +1,6 @@
 server:
   port: 3345
+  context-path: /client
 
 eureka:
   client:
@@ -10,3 +11,4 @@ eureka:
 spring:
   application:
     name: springcloud-config-client
+
