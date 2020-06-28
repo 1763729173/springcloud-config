@@ -1,5 +1,4 @@
 server:
-  port: 3345
   context-path: /client
 
 eureka:
